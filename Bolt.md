@@ -1,6 +1,6 @@
 programer:Zachary Villarimo
-date:5/3/2022
-program:Hello square
+date:5/4/2022
+program:figuer 8
 
 async function startProgram() {
 
