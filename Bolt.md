@@ -1,3 +1,3 @@
-programer:Zachary Villarimo
-date:5/3/2022
-program:
+Programmer: Henry Avink & Zachary Villarimo
+Date: 5/9/22
+Program: Maze
